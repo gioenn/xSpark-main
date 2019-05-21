@@ -1,7 +1,5 @@
 ## xSpark
 
-Welcome to the xSpark initiative page.
-
 In the following repositories you will find the components created for anaylizing, controlling and evaluate our tool.
 
 - [xSpark](https://github.com/gioenn/xSpark): an extension of Spark for controlling big-data applications
